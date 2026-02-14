@@ -11,9 +11,9 @@ export function Header() {
           {/* Logo */}
           <Link href="/" className="flex items-center gap-2">
             <div className="w-8 h-8 bg-gradient-to-br from-accent to-accent/70 rounded-lg flex items-center justify-center">
-              <span className="text-white font-bold text-sm">E</span>
+              <span className="text-white font-bold text-sm">UG</span>
             </div>
-            <span className="text-xl font-bold text-foreground">EMBROJIN</span>
+            <span className="text-xl font-bold text-foreground">URGFLY</span>
           </Link>
 
           {/* Navigation Links */}
