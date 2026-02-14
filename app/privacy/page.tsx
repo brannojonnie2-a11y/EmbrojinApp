@@ -19,7 +19,7 @@ export default function PrivacyPage() {
             <section>
               <h2 className="text-2xl font-bold text-foreground mb-4">1. Introduction</h2>
               <p className="text-muted-foreground leading-relaxed">
-                EMBROJIN ("we," "us," "our," or "Company") is committed to protecting your privacy. This Privacy Policy explains how we collect, use, disclose, and otherwise process personal information about you in connection with our websites, applications, and services.
+                URGFLY ("we," "us," "our," or "Company") is committed to protecting your privacy. This Privacy Policy explains how we collect, use, disclose, and otherwise process personal information about you in connection with our websites, applications, and services.
               </p>
             </section>
 
@@ -102,7 +102,7 @@ export default function PrivacyPage() {
                 <li>Right to withdraw consent</li>
               </ul>
               <p className="text-muted-foreground leading-relaxed mt-3">
-                To exercise any of these rights, please contact us at privacy@embrojin.com.
+                To exercise any of these rights, please contact us at privacy@URGFLY.com.
               </p>
             </section>
 
@@ -147,8 +147,8 @@ export default function PrivacyPage() {
                 If you have questions about this Privacy Policy or our privacy practices, please contact us at:
               </p>
               <div className="p-4 bg-secondary/30 rounded-lg border border-border/40 text-muted-foreground">
-                <p>EMBROJIN Privacy Team</p>
-                <p>Email: privacy@embrojin.com</p>
+                <p>URGFLY Privacy Team</p>
+                <p>Email: privacy@URGFLY.com</p>
                 <p>Phone: +1 (234) 567-890</p>
                 <p>Address: 123 Tech Street, San Francisco, CA 94102</p>
               </div>
