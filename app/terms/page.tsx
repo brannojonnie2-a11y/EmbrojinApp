@@ -19,14 +19,14 @@ export default function TermsPage() {
             <section>
               <h2 className="text-2xl font-bold text-foreground mb-4">1. Agreement to Terms</h2>
               <p className="text-muted-foreground leading-relaxed">
-                By accessing and using the EMBROJIN website and services, you accept and agree to be bound by the terms and provision of this agreement. If you do not agree to abide by the above, please do not use this service. EMBROJIN reserves the right to update these terms of service at any time without notice. You may view the most current version of these terms at any time by visiting this page.
+                By accessing and using the URGFLY website and services, you accept and agree to be bound by the terms and provision of this agreement. If you do not agree to abide by the above, please do not use this service. URGFLY reserves the right to update these terms of service at any time without notice. You may view the most current version of these terms at any time by visiting this page.
               </p>
             </section>
 
             <section>
               <h2 className="text-2xl font-bold text-foreground mb-4">2. Service Description</h2>
               <p className="text-muted-foreground leading-relaxed">
-                EMBROJIN provides Virtual Private Server (VPS) hosting services. Our services include but are not limited to server hosting, domain management, and technical support. We reserve the right to modify, suspend, or terminate services at any time.
+                URGFLY provides Virtual Private Server (VPS) hosting services. Our services include but are not limited to server hosting, domain management, and technical support. We reserve the right to modify, suspend, or terminate services at any time.
               </p>
             </section>
 
@@ -58,7 +58,7 @@ export default function TermsPage() {
             <section>
               <h2 className="text-2xl font-bold text-foreground mb-4">5. Service Level Agreement</h2>
               <p className="text-muted-foreground leading-relaxed mb-3">
-                EMBROJIN commits to maintaining the following uptime guarantees:
+                URGFLY commits to maintaining the following uptime guarantees:
               </p>
               <ul className="list-disc list-inside text-muted-foreground space-y-2 ml-4">
                 <li>Basic Plans: 99.5% uptime</li>
@@ -73,28 +73,28 @@ export default function TermsPage() {
             <section>
               <h2 className="text-2xl font-bold text-foreground mb-4">6. Content and Acceptable Use</h2>
               <p className="text-muted-foreground leading-relaxed">
-                You retain all rights to content you create and store on your VPS. However, you grant EMBROJIN the right to use, reproduce, and distribute your content solely for the purpose of providing the service. You warrant that all content is legal, does not infringe on third-party rights, and complies with all applicable laws and regulations.
+                You retain all rights to content you create and store on your VPS. However, you grant URGFLY the right to use, reproduce, and distribute your content solely for the purpose of providing the service. You warrant that all content is legal, does not infringe on third-party rights, and complies with all applicable laws and regulations.
               </p>
             </section>
 
             <section>
               <h2 className="text-2xl font-bold text-foreground mb-4">7. Limitations of Liability</h2>
               <p className="text-muted-foreground leading-relaxed mb-3">
-                EMBROJIN shall not be liable for any indirect, incidental, special, consequential, or punitive damages resulting from your use of or inability to use the service, even if we have been advised of the possibility of such damages. Our liability is limited to the total amount paid for the service in the 12 months preceding the claim.
+                URGFLY shall not be liable for any indirect, incidental, special, consequential, or punitive damages resulting from your use of or inability to use the service, even if we have been advised of the possibility of such damages. Our liability is limited to the total amount paid for the service in the 12 months preceding the claim.
               </p>
             </section>
 
             <section>
               <h2 className="text-2xl font-bold text-foreground mb-4">8. Termination</h2>
               <p className="text-muted-foreground leading-relaxed">
-                EMBROJIN reserves the right to terminate your account and service at any time, with or without cause, and with or without notice. Upon termination, you will lose access to your account and any data stored on it. We are not responsible for data loss resulting from account termination.
+                URGFLY reserves the right to terminate your account and service at any time, with or without cause, and with or without notice. Upon termination, you will lose access to your account and any data stored on it. We are not responsible for data loss resulting from account termination.
               </p>
             </section>
 
             <section>
               <h2 className="text-2xl font-bold text-foreground mb-4">9. Modifications to Terms</h2>
               <p className="text-muted-foreground leading-relaxed">
-                EMBROJIN reserves the right to modify these terms at any time. Changes will be effective immediately upon posting to the website. Your continued use of the service after any modifications constitutes acceptance of the new terms.
+                URGFLY reserves the right to modify these terms at any time. Changes will be effective immediately upon posting to the website. Your continued use of the service after any modifications constitutes acceptance of the new terms.
               </p>
             </section>
 
@@ -111,8 +111,8 @@ export default function TermsPage() {
                 If you have any questions about these terms, please contact us at:
               </p>
               <div className="mt-4 p-4 bg-secondary/30 rounded-lg border border-border/40 text-muted-foreground">
-                <p>EMBROJIN Support</p>
-                <p>Email: legal@embrojin.com</p>
+                <p>URGFLY Support</p>
+                <p>Email: legal@URGFLY.com</p>
                 <p>Phone: +1 (234) 567-890</p>
                 <p>Address: 123 Tech Street, San Francisco, CA 94102</p>
               </div>
