@@ -27,8 +27,8 @@ export default function ContactPage() {
               <Mail className="w-8 h-8 text-accent mb-4" />
               <h3 className="text-lg font-bold text-foreground mb-2">Email</h3>
               <p className="text-muted-foreground mb-2">Send us an email anytime</p>
-              <a href="mailto:support@embrojin.com" className="text-accent hover:text-accent/80 transition-colors">
-                support@embrojin.com
+              <a href="mailto:support@URGFLY.com" className="text-accent hover:text-accent/80 transition-colors">
+                support@URGFLY.com
               </a>
             </Card>
 
