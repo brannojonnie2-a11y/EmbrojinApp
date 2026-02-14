@@ -13,7 +13,7 @@ export function Footer() {
               <div className="w-6 h-6 bg-gradient-to-br from-accent to-accent/70 rounded-lg flex items-center justify-center">
                 <span className="text-white font-bold text-xs">E</span>
               </div>
-              <span className="text-lg font-bold text-foreground">EMBROJIN</span>
+              <span className="text-lg font-bold text-foreground">URGFLY</span>
             </div>
             <p className="text-sm text-muted-foreground">
               Enterprise VPS hosting for reliable cloud infrastructure.
@@ -79,7 +79,7 @@ export function Footer() {
 
         <div className="border-t border-border/40 pt-8 flex flex-col md:flex-row justify-between items-center">
           <p className="text-sm text-muted-foreground">
-            © 2026 EMBROJIN. All rights reserved.
+            © 2026 URGFLY. All rights reserved.
           </p>
           <div className="flex gap-6 mt-4 md:mt-0">
             <a href="#" className="text-sm text-muted-foreground hover:text-foreground transition-colors">
